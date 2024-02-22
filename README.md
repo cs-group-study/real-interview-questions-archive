@@ -106,3 +106,63 @@
 - Typescript를 쓰면 좋은 점
 
 </details>
+
+<details>
+<summary>B회사(AI/뷰티)</summary>
+
+TypeScript
+- TypeScript 어느 범위까지 타입 적용하는지?
+- return 시 void와 undefined 차이
+
+JavaScript
+- JavaScript는 싱글스레드인가 멀티스레드인가
+- 싱글스레드는 무엇인가요?
+- call by value와 call by reference 차이
+- eslint 사용 시 인자로 받은 값을 변경하려면 에러가 발생하는데, 이게 왜 발생하는지 call by value 또는 call by  reference 개념을 가지고 설명해 주세요.
+
+HTTP
+- HTTP 특성 stateless가 무엇인지
+- stateless인데 서버와 통신할 때 값을 어떻게 주고 받을 수 있는지?
+- 클라이언트 캐싱 종류가 무엇인지?
+- localStorage와 sessionStorage 차이가 무엇인지?
+
+graphQL
+- graphQL 장점
+- RESTapi와 차이점
+- 오버패칭 언더패칭 무엇인지?
+- graphQL에서 언더패칭 어떻게 처리하는지?
+- graphQL에서 캐싱 어떻게 처리하는지?
+- 캐싱 정규화에 대해 설명해 주세요.
+
+React
+- React 렌더링 되는 조건
+- useCallback이 무엇이고 언제 사용하는지? (구체적으로 어떤 문제를 어떻게 해결했는지?)
+- useRef는 무엇이고 언제 사용하는지?
+- 제어 컴포넌트와 비제어 컴포넌트 차이
+- 브라우저 상 예전 버전에서 구동되려면 어떻게 해야 하는지?
+
+Next
+- 프로젝트에서 사용해 본 적 있는지?
+- 어떻게 활용했는지?
+
+그 외
+- Babel, Webpack 사용해 본 적 있는지?
+- 프로젝트 설명
+- 졸업 이후 공백기
+- 이력서 이외 다른 프로젝트 하신거 있는지?
+- 라이브 코테(prefix, suffix 추출하여 최대 갯수 단어 구하기 (객체 다루기))
+
+</details>
+
+<details>
+<summary>T회사(AI/의료)</summary>
+
+코드 질문
+- 리액트 렌더링 관련 코드에서 콘솔에 값 어떻게 나오는지? (React.memmo, 원시형, 참조형)
+- 비동기 패칭 질문 (fetch, then, catch)
+
+자료구조
+- 스택, 큐 차이
+- 스택으로 큐 만들어보기(스택 2개, 큐 1개)
+- 연결 리스트, 배열 리스트 차이
+</details>
